@@ -188,7 +188,7 @@ header('X-Frame-Options: SAMEORIGIN');
   </section>
 
   <!-- ============================ Features ============================ -->
-  <section class="section features" id="features" aria-labelledby="features-title">
+  <!-- <section class="section features" id="features" aria-labelledby="features-title">
     <div class="shell">
       <p class="eyebrow reveal">What we're building</p>
       <h2 class="section__title reveal" id="features-title">Four things we're getting right first</h2>
@@ -239,7 +239,7 @@ header('X-Frame-Options: SAMEORIGIN');
         </li>
       </ul>
     </div>
-  </section>
+  </section> -->
 
   <!-- ============================ Coming soon ============================ -->
   <section class="section launch" id="launch" aria-labelledby="launch-title">
